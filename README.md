@@ -1,5 +1,11 @@
 # Welcome to "💻 AL AZAMI TAREK 💻"  GitHub! 🎉
 
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=435&lines=Hi+there!+I'm+Tarek+👋;Software+Engineering+Student;Full+Stack+Developer;DevOps+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
+
+</div>
 🌟 **Passionate Software Engineering Student** | **Web & Desktop Developer**  | **DevOps** | **Tech Enthusiast** 🌟
 
 I'm a passionate Software Engineering Student 👨‍💻 with a deep love for software development, whether it's building **web applications**, **desktop software**, or exploring the latest technologies. My journey is driven by a desire to create impactful and innovative solutions that solve real-world problems. 💡
@@ -25,11 +31,9 @@ If you have a project idea, a problem to solve, or just want to brainstorm the n
  ![Static Badge](https://img.shields.io/badge/instagram-%23white?style=for-the-badge&logo=instagram&logoColor=white&color=%23FF0069)
 
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TAREK-AZM&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TAREK-AZM&layout=compact&theme=react)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TAREK-AZM&theme=react)
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TAREK-AZM&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TAREK-AZM&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TAREK-AZM&theme=dark)
 ### 🛠️ Stacks Technologies🛠️
 
 ### Frontend
