@@ -25,6 +25,11 @@ If you have a project idea, a problem to solve, or just want to brainstorm the n
  ![Static Badge](https://img.shields.io/badge/instagram-%23white?style=for-the-badge&logo=instagram&logoColor=white&color=%23FF0069)
 
 
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TAREK-AZM&show_icons=true&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TAREK-AZM&layout=compact&theme=react)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TAREK-AZM&theme=react)
+
+
 ### 🛠️ Stacks Technologies🛠️
 
 ### Frontend
